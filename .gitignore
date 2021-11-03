@@ -6,6 +6,9 @@
 [Bb]uilds/
 [Ll]ogs/
 
+# Ignore personal settings
+[Uu]ser[Ss]ettings/
+
 # Never ignore Asset meta data
 ![Aa]ssets/**/*.meta
 
